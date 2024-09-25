@@ -1,3 +1,13 @@
+//Brute
+class Solution {
+public:
+    int removeDuplicates(vector<int>& nums) {
+     erase(unique(nums.begin(),nums.end()),nums.end());
+       return nums.size();
+    }
+};
+
+//Optimal
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
