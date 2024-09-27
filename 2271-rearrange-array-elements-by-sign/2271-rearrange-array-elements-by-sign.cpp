@@ -1,3 +1,4 @@
+// Brute
 class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
@@ -16,3 +17,4 @@ public:
         return ans;
     }
 };
+// Optimal:- TWo pointers with S.C:-O(n)
