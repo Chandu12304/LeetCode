@@ -1,3 +1,4 @@
+// Brute:- O(2n)
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
@@ -16,3 +17,4 @@ public:
 
     }
 };
+// Optimal:- Dutch flag Algorithm O(n)
