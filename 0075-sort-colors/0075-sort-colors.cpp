@@ -17,4 +17,4 @@ public:
 
     }
 };
-// Optimal:- Dutch flag Algorithm O(n)
+// Optimal:- Dutch National flag Algorithm O(n)
