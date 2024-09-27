@@ -1,3 +1,4 @@
+// Brute
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
@@ -14,3 +15,5 @@ public:
         return el;
     }
 };
+
+// Optimal: Moore's voting Algorithm
