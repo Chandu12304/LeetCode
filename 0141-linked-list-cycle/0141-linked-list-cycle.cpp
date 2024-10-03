@@ -6,6 +6,7 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+// Floyd's Tortoise and hare technique
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
