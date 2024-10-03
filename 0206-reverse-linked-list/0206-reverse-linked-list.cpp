@@ -8,6 +8,7 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+// Brute (T.C:- O(n), S.C:- O(n))
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
@@ -23,3 +24,5 @@ public:
         return cur;
     }
 };
+
+// Optimal [3 pointer approach for interview](T.C:- O(n), S.C:- O(1))
