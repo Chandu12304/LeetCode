@@ -8,6 +8,7 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+// Brute force
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
@@ -25,3 +26,4 @@ public:
         return false;
     }
 };
+// Optimal
