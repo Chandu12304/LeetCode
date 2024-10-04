@@ -112,4 +112,16 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Chandu12304/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Chandu12304/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Chandu12304/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Chandu12304/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
