@@ -25,7 +25,7 @@ public:
         if(ptr2==NULL) return root;
         //case1:-
         if(ptr2->left ==NULL && ptr2->right==NULL){
-            if(ptr1){
+            if(ptr1){ // edge case if root is to deleted
                 if(ptr1->left==ptr2) ptr1->left=nullptr;
                 else ptr1->right=nullptr;
             }
