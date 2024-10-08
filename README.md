@@ -36,6 +36,7 @@
 | [0234-palindrome-linked-list](https://github.com/Chandu12304/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Chandu12304/LeetCode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/Chandu12304/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chandu12304/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Chandu12304/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Chandu12304/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chandu12304/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Chandu12304/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
@@ -134,9 +136,14 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chandu12304/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chandu12304/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Chandu12304/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chandu12304/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chandu12304/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
