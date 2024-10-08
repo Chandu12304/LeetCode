@@ -27,3 +27,5 @@ public:
         return head;
     }
 };
+
+// optimal is using merge sort for linked list
