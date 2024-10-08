@@ -37,10 +37,15 @@ public:
             return head;
         }
 
-        // Delete the nth node from the end
+        // Delete the nth node from the en
         prev->next = s->next;
         delete s;
 
         return head;
     }
 };
+
+/** -----s------f  == s----f----------
+       /\    /\          /\    /\
+       |      |           |     |
+         - n -            - n -    **/
