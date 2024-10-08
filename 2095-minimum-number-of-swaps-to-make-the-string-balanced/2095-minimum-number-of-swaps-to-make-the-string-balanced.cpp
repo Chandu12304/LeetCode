@@ -1,6 +1,8 @@
 class Solution {
 public:
     int minSwaps(string s) {
+        // clearly, if we remove matched pairs AB, the left overs will form ]]....[[
+        // ]] | [[ or ]]] | [[[ :- (n+1)/2
         stack<char> st;
         for(char c:s){
             if(c=='[') st.push(c);
