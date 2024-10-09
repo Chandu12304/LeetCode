@@ -124,6 +124,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Chandu12304/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Chandu12304/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chandu12304/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Chandu12304/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chandu12304/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Chandu12304/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chandu12304/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Chandu12304/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String Matching
@@ -154,6 +156,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Chandu12304/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chandu12304/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Merge Sort
 |  |
