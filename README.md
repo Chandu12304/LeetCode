@@ -54,6 +54,7 @@
 | [0048-rotate-image](https://github.com/Chandu12304/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Chandu12304/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Chandu12304/LeetCode/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/Chandu12304/LeetCode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Chandu12304/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chandu12304/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/Chandu12304/LeetCode/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Chandu12304/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Chandu12304/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/Chandu12304/LeetCode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -182,4 +185,8 @@
 | [0496-next-greater-element-i](https://github.com/Chandu12304/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Chandu12304/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1002-maximum-width-ramp](https://github.com/Chandu12304/LeetCode/tree/master/1002-maximum-width-ramp) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Chandu12304/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
