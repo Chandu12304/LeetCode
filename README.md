@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/Chandu12304/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Chandu12304/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Chandu12304/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [1002-maximum-width-ramp](https://github.com/Chandu12304/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Chandu12304/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Chandu12304/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Chandu12304/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -128,6 +129,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Chandu12304/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Chandu12304/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Chandu12304/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chandu12304/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Chandu12304/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
@@ -165,4 +167,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Chandu12304/LeetCode/tree/master/0148-sort-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/Chandu12304/LeetCode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
