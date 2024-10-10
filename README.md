@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/Chandu12304/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Chandu12304/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Chandu12304/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Chandu12304/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1002-maximum-width-ramp](https://github.com/Chandu12304/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Chandu12304/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Chandu12304/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Chandu12304/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Chandu12304/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Chandu12304/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Chandu12304/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Chandu12304/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chandu12304/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -174,5 +176,6 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Chandu12304/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Chandu12304/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1002-maximum-width-ramp](https://github.com/Chandu12304/LeetCode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
