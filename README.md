@@ -25,6 +25,7 @@
 | [1002-maximum-width-ramp](https://github.com/Chandu12304/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Chandu12304/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Chandu12304/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Chandu12304/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Chandu12304/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -67,6 +68,7 @@
 | [0169-majority-element](https://github.com/Chandu12304/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Chandu12304/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Chandu12304/LeetCode/tree/master/0496-next-greater-element-i) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Chandu12304/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Binary Search
 |  |
 | ------- |
@@ -189,4 +191,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Chandu12304/LeetCode/tree/master/1013-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Chandu12304/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 <!---LeetCode Topics End-->
