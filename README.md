@@ -70,6 +70,7 @@
 | [0169-majority-element](https://github.com/Chandu12304/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Chandu12304/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Chandu12304/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Chandu12304/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Chandu12304/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Binary Search
 |  |
@@ -169,6 +170,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chandu12304/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Chandu12304/LeetCode/tree/master/0125-valid-palindrome) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Chandu12304/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Chandu12304/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chandu12304/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Chandu12304/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String Matching
@@ -204,4 +206,8 @@
 |  |
 | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Chandu12304/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Backtracking
+|  |
+| ------- |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Chandu12304/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 <!---LeetCode Topics End-->
