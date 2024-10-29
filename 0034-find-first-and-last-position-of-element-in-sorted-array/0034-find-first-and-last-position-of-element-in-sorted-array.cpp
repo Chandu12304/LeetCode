@@ -36,6 +36,7 @@ public:
         int l=lowerBound(0,n,nums,target);
         int u=upperBound(0,n,nums,target);
         if(l==-1 || nums[l]!= target) l=u=-1;
+        // No need of checking for u because if l DNE then obv u wont exist
         ans.push_back(l);
         ans.push_back(u);
         return ans;
