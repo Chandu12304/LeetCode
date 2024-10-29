@@ -35,8 +35,10 @@ public:
         }
         int l=lowerBound(0,n,nums,target);
         int u=upperBound(0,n,nums,target);
-        if(l==-1 || nums[l]!= target) l=-1;
-        if(u==-1 || nums[u]!=target) u=-1;
+        if(l==-1 || nums[l]!= target){
+            l=-1;
+            u=-1;
+        } 
         ans.push_back(l);
         ans.push_back(u);
         return ans;
