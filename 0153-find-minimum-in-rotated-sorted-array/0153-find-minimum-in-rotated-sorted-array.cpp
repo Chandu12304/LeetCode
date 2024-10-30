@@ -11,6 +11,7 @@ public:
                 if(nums[l]<nums[h]) h=mid-1;
                 else l=mid+1;
             }
+            // if right half is sorted , definitely min wont lie in that half
             else h=mid-1;
         }
         return mini;
