@@ -11,7 +11,9 @@ public:
             else if(nums[mid]<nums[mid+1]) l=mid+1;
             else h=mid-1;
         }
+        // this implies either ascending order
         if(nums[0]>nums[1]) return 0;
+        // or descending order
         else return n-1;
     }
 };
