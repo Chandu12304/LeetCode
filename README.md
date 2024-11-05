@@ -25,6 +25,7 @@
 | [0189-rotate-array](https://github.com/Chandu12304/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Chandu12304/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Chandu12304/LeetCode/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/Chandu12304/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Chandu12304/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Chandu12304/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Chandu12304/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -95,6 +96,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chandu12304/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Chandu12304/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Chandu12304/LeetCode/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/Chandu12304/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Chandu12304/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Chandu12304/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Chandu12304/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -131,6 +133,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Chandu12304/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chandu12304/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/Chandu12304/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/Chandu12304/LeetCode/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
@@ -209,6 +212,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Chandu12304/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Chandu12304/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chandu12304/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Chandu12304/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -234,6 +238,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Chandu12304/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Chandu12304/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Backtracking
 |  |
