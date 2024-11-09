@@ -9,7 +9,7 @@ public:
         int i = 0, j = 0;
         int maxi = 0;
 
-        while (j < s.size()) {
+        while (i<=j && j< s.size()) {
             // If character s[j] was seen before and is within the current window
             if (arr[s[j]] != -1 && arr[s[j]] >= i) {
                 i = arr[s[j]] + 1; // Move 'i' to skip the repeated character
