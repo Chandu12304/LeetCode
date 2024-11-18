@@ -91,6 +91,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Chandu12304/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Chandu12304/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Chandu12304/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Chandu12304/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Chandu12304/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Chandu12304/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Chandu12304/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -215,6 +216,7 @@
 | [0125-valid-palindrome](https://github.com/Chandu12304/LeetCode/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Chandu12304/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Chandu12304/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Chandu12304/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Chandu12304/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chandu12304/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Chandu12304/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -270,4 +272,5 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Chandu12304/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/Chandu12304/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Chandu12304/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Chandu12304/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
