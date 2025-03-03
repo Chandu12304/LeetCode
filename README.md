@@ -46,6 +46,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Chandu12304/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Chandu12304/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Chandu12304/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/Chandu12304/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0268-missing-number](https://github.com/Chandu12304/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Chandu12304/LeetCode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Chandu12304/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/Chandu12304/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Hash Table
 |  |
 | ------- |
