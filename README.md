@@ -153,6 +153,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Chandu12304/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Chandu12304/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Chandu12304/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Union Find
@@ -222,6 +223,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Chandu12304/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Chandu12304/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chandu12304/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Chandu12304/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Chandu12304/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String Matching
 |  |
