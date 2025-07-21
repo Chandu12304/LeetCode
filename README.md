@@ -280,4 +280,8 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Chandu12304/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Chandu12304/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Chandu12304/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Chandu12304/LeetCode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
